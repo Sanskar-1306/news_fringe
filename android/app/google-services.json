@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "406840213416",
+    "firebase_url": "https://newsfringe-77747.firebaseio.com",
+    "project_id": "newsfringe-77747",
+    "storage_bucket": "newsfringe-77747.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406840213416:android:dee49bfd5e7fa30f94e79d",
+        "android_client_info": {
+          "package_name": "sg2001.news_fringe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406840213416-3ci4rg9o059gj217p29ud19kmbiq349d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3J9caDPHLJukS1WKGnGhyXsjvvLRFJ8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406840213416-3ci4rg9o059gj217p29ud19kmbiq349d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
